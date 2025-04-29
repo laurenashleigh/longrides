@@ -1,0 +1,28 @@
+{
+    "tours": [
+        {
+            "id": 1,
+            "name": "Spain Cycle",
+            "distance": 100,
+            "days": [
+                {
+                    "day": 1,
+                    "distance": 35,
+                    "sleepLocation": "Benajarafe"
+                },
+                {
+                    "day": 2,
+                    "distance": 70,
+                    "sleepLocation": "Salobreña"
+                },
+                {
+                    "day": 3,
+                    "distance": 120,
+                    "sleepLocation": "Almería"
+                }
+            ],
+            "countries": ["Spain"]
+            
+        }
+    ]
+}
